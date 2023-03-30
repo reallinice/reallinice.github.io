@@ -1,0 +1,21 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>蓝色港湾，晒娃上瘾 - Reallinice</title><meta property="og:title" content="蓝色港湾，晒娃上瘾 - Reallinice"><meta name=twitter:card content="summary"><meta name=referrer content="never"><link rel=stylesheet href=/css/custom.css></link>
+<link rel=stylesheet href=https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.6.0/lxgwwenkaiscreen.css media=print onload='this.media="all"'><script type=text/javascript src=/js/view-image.js></script>
+<script>window.ViewImage&&ViewImage.init(".main img:not(.avatar,.tk-avatar-img)")</script><meta property="description" content="折腾了一上午，终于搞定了在博客内插入指定文件夹内的图片，之前不报错，也不显示，原来是没有在single.html里加上引入 PATH 的代码：
+{{ .Render &amp;quot;path&amp;quot;}} 搞定之后爽歪歪。
+接下来准备研究一下瀑布流和灯箱效果了。
+"><meta property="og:description" content="折腾了一上午，终于搞定了在博客内插入指定文件夹内的图片，之前不报错，也不显示，原来是没有在single.html里加上引入 PATH 的代码：
+{{ .Render &amp;quot;path&amp;quot;}} 搞定之后爽歪歪。
+接下来准备研究一下瀑布流和灯箱效果了。
+"><link href=//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css rel=stylesheet type=text/css><link rel=stylesheet href=/css/style.css><link rel=stylesheet href=/css/fonts.css></head><body class=posts><header class=masthead><h1><a href=/>Reallinice</a></h1><p class=tagline>A reason to start over new, and the reason is you.</p><nav class=menu><input id=menu-check type=checkbox hidden>
+<label id=menu-label for=menu-check class=unselectable hidden><span class="icon close-icon">✕</span>
+<span class="icon open-icon">☰</span>
+<span class=text>Menu</span></label><ul><li><a href=/movies/>电影</a></li><li><a href=/books/>阅读</a></li><li><a href=/posts/>归档</a></li><li><a href=/newsletter/>通讯</a></li><li><a href=/kids/>孩童</a></li></ul></nav></header><article class=main><header class=title><h1>蓝色港湾，晒娃上瘾</h1><h3>2020-04-13</h3><hr></header><p>折腾了一上午，终于搞定了在博客内插入指定文件夹内的图片，之前不报错，也不显示，原来是没有在<code>single.html</code>里加上引入 PATH 的代码：</p><pre><code class=language-go>{{ .Render &quot;path&quot;}}
+</code></pre><p>搞定之后爽歪歪。</p><p>接下来准备研究一下瀑布流和灯箱效果了。</p><footer><script src=https://immmmm.com/waterfall.min.js></script>
+<script src=https://immmmm.com/imgStatus.min.js></script>
+<script>document.addEventListener("DOMContentLoaded",()=>{var e,s,o,n=document.getElementsByTagName("gallery")||"";if(n)for(e=0;e<n.length;e++){n[e].innerHTML='<div class="gallery-photos">'+n[e].innerHTML+"</div>",o=n[e].getElementsByTagName("img");for(s=0;s<o.length;s++)i(o[s],document.createElement("div"))}function i(e,t){t.className="gallery-photo",e.parentNode.insertBefore(t,e),t.appendChild(e)}let t=document.querySelectorAll(".gallery-photos")||"";t&&(imgStatus.watch(".gallery-photo img",function(e){if(e.isDone())for(var s,n=0;n<t.length;n++){waterfall(t[n]);let e=t[n].querySelectorAll(".gallery-photo");for(s=0;s<e.length;s++)e[s].className+=" visible"}}),window.addEventListener("resize",function(){for(var e=0;e<t.length;e++)waterfall(t[e])}))})</script><nav class=post-nav><span class=nav-prev></span>
+<span class=nav-next><a href=/posts/2021/01/2020-da-li/>大理</a> &rarr;</span></nav><hr><div class=pagination__title style=margin-bottom:30px><span class=pagination__title-h>欢迎评论</span></div><div id=tcomment></div><script src=https://fastly.jsdelivr.net/npm/twikoo@1.6.10/dist/twikoo.min.js></script>
+<script>twikoo.init({envId:"https://reallinice.zeabur.app/",el:"#tcomment"})</script><script src=//cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js></script>
+<script src=//cdn.bootcss.com/highlight.js/9.12.0/languages/r.min.js></script>
+<script src=//cdn.bootcss.com/highlight.js/9.12.0/languages/yaml.min.js></script>
+<script src=//cdn.bootcss.com/highlight.js/9.12.0/languages/tex.min.js></script>
+<script>hljs.configure({languages:[]}),hljs.initHighlightingOnLoad()</script><hr><div class=copyright>© <a href=https://www.lixiangqian.com>reallince</a> | since 2007</div></footer></article></body></html>
