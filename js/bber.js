@@ -102,7 +102,8 @@ if (nextLength < limit) { document.querySelector("button.button-load").remove() 
             bbMemo.creatorId fetch(bbUrl).then(res=> res.json()).then(resdata => {
             if (resdata.data) {
             var allnums = '<div id="bb-footer">
-                <p class="bb-allnums">共 ' + resdata.data.length + ' 条 </p>
+                    < p class="bb-allnums" > 共 ' + resdata.data.length + ' 条 </p >
+                    <p class="bb-allpub"><a href="https://immmmm.com/bbs/" target="_blank">Memos Public</a></p>
             </div>'
             bbLoad.insertAdjacentHTML('afterend', allnums);
             }
