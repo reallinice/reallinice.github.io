@@ -4,9 +4,4 @@
 &lt;p>或者说，我有在博客里写短文的自由。&lt;/p>
 &lt;hr>
 &lt;p>补充一个例子，摄影师 Ericube，iPhone 发布会样片摄影师，相机拍摄就不说了，偶尔有各种手机随手拍（当然也不是真的随手一拍），是最能说明道与术关系的一例。他手里的小米 12 pro，比我手里的 Sony A7m3 还要厉害。&lt;/p>
-&lt;p>写到这，想起一句名言：成功才是成功他妈，以及，越有钱的人越有钱。&lt;/p></description></item><item><title>大理</title><link>https://www.lixiangqian.com/posts/2021/01/2020-da-li/</link><pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate><guid>https://www.lixiangqian.com/posts/2021/01/2020-da-li/</guid><description>&lt;p>第一次坐飞机，往返表现都还不错。&lt;/p>
-&lt;p>在大理比较嗨，算是给新年开了个好头。&lt;/p></description></item><item><title>蓝色港湾，晒娃上瘾</title><link>https://www.lixiangqian.com/posts/2020/04/%E8%93%9D%E8%89%B2%E6%B8%AF%E6%B9%BE%E6%99%92%E5%A8%83%E4%B8%8A%E7%98%BE/</link><pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate><guid>https://www.lixiangqian.com/posts/2020/04/%E8%93%9D%E8%89%B2%E6%B8%AF%E6%B9%BE%E6%99%92%E5%A8%83%E4%B8%8A%E7%98%BE/</guid><description>&lt;p>折腾了一上午，终于搞定了在博客内插入指定文件夹内的图片，之前不报错，也不显示，原来是没有在&lt;code>single.html&lt;/code>里加上引入 PATH 的代码：&lt;/p>
-&lt;pre>&lt;code class="language-go">{{ .Render &amp;quot;path&amp;quot;}}
-&lt;/code>&lt;/pre>
-&lt;p>搞定之后爽歪歪。&lt;/p>
-&lt;p>接下来准备研究一下瀑布流和灯箱效果了。&lt;/p></description></item></channel></rss>
+&lt;p>写到这，想起一句名言：成功才是成功他妈，以及，越有钱的人越有钱。&lt;/p></description></item></channel></rss>
