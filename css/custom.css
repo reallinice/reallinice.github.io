@@ -14,12 +14,14 @@
   --phoneWidth: (max-width: 684px);
   --tabletWidth: (max-width: 900px);
 }
+
 .pagination__title {
   display: flex;
   text-align: center;
   position: relative;
   margin: 60px 0;
 }
+
 .pagination__title-h {
   text-align: center;
   margin: 0 auto;
@@ -34,6 +36,7 @@
   letter-spacing: 0.1em;
   z-index: 1;
 }
+
 .pagination__title hr {
   position: absolute;
   left: 0;
@@ -42,11 +45,13 @@
   margin-top: 15px;
   z-index: 0;
 }
+
 hr {
   border: none;
   background: var(--light-border-color);
   height: 1px;
 }
+
 @media screen and (min-width: 961px) {
   .masthead {
     position: sticky;
@@ -55,33 +60,41 @@ hr {
     width: 200px;
     padding: 2em 1em;
   }
+
   .main {
     margin-left: calc(50% - 250px);
   }
 }
+
 body {
   width: auto;
   padding: 0;
 }
+
 .main {
   padding: 2em 40px;
   hyphens: auto;
   border-left: none;
 }
+
 .menu li:not([class]) a,
 a:hover,
 .copyright a {
   border-bottom: none;
 }
+
 .menu-extra {
   list-style: circle;
 }
+
 code {
   hyphens: none;
 }
+
 a {
   border-bottom: 1px dashed;
 }
+
 iframe,
 twitterwidget,
 video {
@@ -89,68 +102,86 @@ video {
   display: block;
   margin: auto;
 }
+
 #TableOfContents {
   background-color: #f8f8f8;
   padding: 0.5em;
 }
+
 table {
   min-width: 90%;
   max-width: 100%;
   margin: auto;
 }
+
 pre .nohighlight {
   background-color: transparent;
 }
+
 pre:hover {
   white-space: pre-wrap;
   word-break: break-all;
 }
+
 .hljs-comment {
   font-style: inherit;
 }
+
 .hljs {
   padding: 1em;
 }
+
 .home hr {
   margin: 2em auto 1em;
 }
+
 .masthead img {
   max-width: 80px;
 }
+
 img[src$="#border"] {
   border: 1px solid #ddd;
   box-shadow: 5px 5px 5px #eee;
 }
+
 del {
   background-color: #444;
 }
+
 del:hover {
   background-color: inherit;
   text-decoration: inherit;
 }
+
 .home blockquote,
 blockquote:not(:hover) {
   border-left-color: transparent;
 }
+
 .anchor {
   display: none;
 }
-:hover > .anchor {
+
+:hover>.anchor {
   display: inline;
 }
+
 #disqus_thread a {
   color: steelblue;
 }
+
 .tabs {
   display: flex;
   flex-wrap: wrap;
   background: #fafafa;
   box-shadow: 0 20px 80px -50px rgb(0 0 0 / 30%);
 }
+
 .input {
   position: absolute;
   opacity: 0;
 }
+
 .label {
   padding: 15px 20px;
   background: #eee;
@@ -159,21 +190,26 @@ blockquote:not(:hover) {
   color: #7f7f7f;
   transition: background 0.1s, color 0.1s;
 }
+
 .label:hover {
   background: #d8d8d8;
 }
+
 .label:active {
   background: #ccc;
 }
-.input:focus + .label {
+
+.input:focus+.label {
   box-shadow: inset 0px 0px 0px 3px #2aa1c0;
   z-index: 1;
 }
-.input:checked + .label {
+
+.input:checked+.label {
   background: #fff;
   color: #000;
   border: 1px solid #eee;
 }
+
 .panel {
   display: none;
   padding: 10px;
@@ -181,25 +217,32 @@ blockquote:not(:hover) {
   width: 100%;
   order: 99;
 }
+
 .panel .title {
   font-weight: bold;
 }
-.input:checked + .label + .panel,
+
+.input:checked+.label+.panel,
 .comment-full .tabs,
 .comment-full .panel:not(:last-of-type) {
   display: block;
 }
+
 .comment-full .panel {
   order: inherit;
 }
+
 .comment-full .label {
   width: 100%;
   display: block;
 }
+
 .bb-allpub {
   display: none;
 }
+
 @media screen and (max-width: 960px) {
+
   h1,
   h2,
   h3,
@@ -208,28 +251,36 @@ blockquote:not(:hover) {
   h6 {
     margin: 2em auto 1.5em auto;
   }
+
   .title h2,
   .title h3 {
     margin: 1.5em auto;
   }
+
   .main .title h1 {
     margin: 1em auto 0 auto;
   }
+
   .title hr {
     margin: 2em auto;
   }
+
   .masthead {
     padding: 1em;
   }
+
   .masthead .menu {
     max-width: inherit;
   }
+
   .masthead h1 {
     margin-bottom: 10px;
   }
+
   .masthead .menu ul {
     text-align: center;
   }
+
   .masthead .menu a {
     display: inline-block;
     padding: 5px 10px;
@@ -237,37 +288,45 @@ blockquote:not(:hover) {
     color: #fff;
     border-radius: 5px;
   }
+
   .masthead .menu .active a {
     background: none;
     border: 1px solid #444;
     color: #000;
   }
+
   .masthead .menu li,
   .masthead .menu li:first-child {
     border: none;
     display: inline-block;
     margin-top: 5px;
   }
+
   .masthead .menu .menu-extra {
     display: none;
   }
+
   .panel {
     order: inherit;
   }
+
   .label {
     width: 100%;
   }
 }
 
 @media print {
+
   del,
   footer,
   .masthead {
     display: none;
   }
+
   body {
     max-width: 700px;
   }
+
   .main {
     margin-left: 0;
     border-left: none;
