@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.lixiangqian.com/goods/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.lixiangqian.com/memos/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.lixiangqian.com/newsletter/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -85,8 +91,6 @@
     <loc>https://www.lixiangqian.com/categories/</loc>
   </url><url>
     <loc>https://www.lixiangqian.com/docs/archives/</loc>
-  </url><url>
-    <loc>https://www.lixiangqian.com/memos/</loc>
   </url><url>
     <loc>https://www.lixiangqian.com/newsletter/archives/</loc>
   </url><url>
