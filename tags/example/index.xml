@@ -16,7 +16,7 @@
       <pubDate>Tue, 12 Apr 2022 23:37:00 +0800</pubDate>
       
       <guid>https://www.lixiangqian.com/docs/papermodalpha-new-features/</guid>
-      <description>This page explains the new features and changes of PaperModAlpha comparing to the original PaperMod.</description>
+      <description>The new features and changes of PaperModAlpha comparing to the original PaperMod.</description>
       <content:encoded><![CDATA[<p>This page explains the new features and changes of PaperModAlpha
 comparing to the original PaperMod.</p>
 <h2 id="table-of-contents-toc-floating-on-the-side">Table of Contents (ToC) floating on the side</h2>
@@ -492,7 +492,7 @@ videos.
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.lixiangqian.com/posts/markdown-syntax/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <description>Showcasing basic Markdown syntax and formatting for HTML elements.</description>
       <content:encoded><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
 <h2 id="headings">Headings</h2>
 <p>The following HTML <code>&lt;h1&gt;</code>—<code>&lt;h6&gt;</code> elements represent six levels of section headings. <code>&lt;h1&gt;</code> is the highest section level while <code>&lt;h6&gt;</code> is the lowest.</p>
