@@ -32,21 +32,6 @@
     <loc>https://www.lixiangqian.com/docs/papermodx-new-features/</loc>
     <lastmod>2022-04-12T23:37:00+08:00</lastmod>
   </url><url>
-    <loc>https://www.lixiangqian.com/docs/papermodx-new-features.zh/</loc>
-    <lastmod>2022-04-12T23:37:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.lixiangqian.com/tags/markdown/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.lixiangqian.com/posts/markdown-syntax.zh/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.lixiangqian.com/posts/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.lixiangqian.com/tags/syntax/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.lixiangqian.com/tags/icons/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -59,10 +44,22 @@
     <loc>https://www.lixiangqian.com/docs/features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.lixiangqian.com/docs/variables/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.lixiangqian.com/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.lixiangqian.com/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.lixiangqian.com/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.lixiangqian.com/posts/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.lixiangqian.com/tags/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.lixiangqian.com/tags/privacy/</loc>
@@ -97,9 +94,5 @@
     <loc>https://www.lixiangqian.com/search/</loc>
   </url><url>
     <loc>https://www.lixiangqian.com/readwise/</loc>
-  </url><url>
-    <loc>https://www.lixiangqian.com/archives.zh/</loc>
-  </url><url>
-    <loc>https://www.lixiangqian.com/search.zh/</loc>
   </url>
 </urlset>
