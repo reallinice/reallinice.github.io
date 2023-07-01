@@ -9,13 +9,33 @@
       <link>https://www.lixiangqian.com/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lixiangqian.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 23:37:00 +0800</lastBuildDate><atom:link href="https://www.lixiangqian.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>example</title>
       <link>https://www.lixiangqian.com/tags/example/</link>
-      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Apr 2022 23:37:00 +0800</pubDate>
       
       <guid>https://www.lixiangqian.com/tags/example/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>docs</title>
+      <link>https://www.lixiangqian.com/tags/docs/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lixiangqian.com/tags/docs/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>guide</title>
+      <link>https://www.lixiangqian.com/tags/guide/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lixiangqian.com/tags/guide/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -31,11 +51,11 @@
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>https://www.lixiangqian.com/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>math</title>
+      <link>https://www.lixiangqian.com/tags/math/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lixiangqian.com/tags/markdown/</guid>
+      <guid>https://www.lixiangqian.com/tags/math/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -43,9 +63,19 @@
     <item>
       <title>syntax</title>
       <link>https://www.lixiangqian.com/tags/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.lixiangqian.com/tags/syntax/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://www.lixiangqian.com/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lixiangqian.com/tags/markdown/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -66,16 +96,6 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.lixiangqian.com/tags/shortcodes/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://www.lixiangqian.com/tags/math/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lixiangqian.com/tags/math/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
