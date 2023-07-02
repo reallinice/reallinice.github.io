@@ -44,9 +44,6 @@
     <loc>https://www.lixiangqian.com/tags/math/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.lixiangqian.com/docs/features/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.lixiangqian.com/tags/syntax/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,22 +53,19 @@
     <loc>https://www.lixiangqian.com/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.lixiangqian.com/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.lixiangqian.com/posts/</loc>
+    <loc>https://www.lixiangqian.com/docs/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.lixiangqian.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.lixiangqian.com/posts/rich-content/</loc>
+    <loc>https://www.lixiangqian.com/docs/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.lixiangqian.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.lixiangqian.com/posts/placeholder-text/</loc>
+    <loc>https://www.lixiangqian.com/docs/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.lixiangqian.com/docs/math-typesetting/</loc>
@@ -85,6 +79,8 @@
     <loc>https://www.lixiangqian.com/categories/</loc>
   </url><url>
     <loc>https://www.lixiangqian.com/docs/archives/</loc>
+  </url><url>
+    <loc>https://www.lixiangqian.com/posts/</loc>
   </url><url>
     <loc>https://www.lixiangqian.com/search/</loc>
   </url><url>
