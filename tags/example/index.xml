@@ -405,10 +405,10 @@ assets:
 </span></span></span></code></pre></div><p><strong>Note:</strong> Archives Layout does not support Multilingual Month Translations.</p>
 <hr>
 <h3 id="regular-mode-default-mode">Regular Mode (default-mode)</h3>
-<p><img loading="lazy" src="/docs/features/images/regular.jpg" type="" alt="regular"  /></p>
+<p><img loading="lazy" data-action="zoom" src="/docs/features/images/regular.jpg" type="" alt="regular"  /></p>
 <hr>
 <h3 id="home-info-mode">Home-Info Mode</h3>
-<p><img loading="lazy" src="/docs/features/images/homeinfo.jpg" type="" alt="homeinfo"  /></p>
+<p><img loading="lazy" data-action="zoom" src="/docs/features/images/homeinfo.jpg" type="" alt="homeinfo"  /></p>
 <p>Use 1st entry as some Information</p>
 <p>add following to config file</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yml" data-lang="yml"><span class="line"><span class="cl"><span class="nt">params</span><span class="p">:</span><span class="w">
@@ -423,7 +423,7 @@ assets:
 </span></span></span><span class="line"><span class="cl"><span class="w">          </span><span class="nt">url</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;&lt;link2&gt;&#34;</span><span class="w">
 </span></span></span></code></pre></div><hr>
 <h3 id="profile-mode">Profile Mode</h3>
-<p><img loading="lazy" src="/docs/features/images/profile.jpg" type="" alt="profile"  /></p>
+<p><img loading="lazy" data-action="zoom" src="/docs/features/images/profile.jpg" type="" alt="profile"  /></p>
 <p>Shows Index/Home page as Full Page with Social Links and Image</p>
 <p>add following to config file</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yml" data-lang="yml"><span class="line"><span class="cl"><span class="nt">params</span><span class="p">:</span><span class="w">
@@ -872,7 +872,7 @@ videos.
 <h2 id="image">Image</h2>
 <p>third party image:</p>
 <p>
-  <img loading="lazy" src="https://images.unsplash.com/photo-1662141978148-2eeb2afb3837?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=772&amp;q=80" alt=""  /></p>
+  <img loading="lazy" data-action="zoom" src="https://images.unsplash.com/photo-1662141978148-2eeb2afb3837?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=772&amp;q=80" alt=""  /></p>
 <p>internal image:</p>
 <p></p>
 <h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode</h2>

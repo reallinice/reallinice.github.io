@@ -207,7 +207,7 @@
 <h2 id="image">Image</h2>
 <p>third party image:</p>
 <p>
-  <img loading="lazy" src="https://images.unsplash.com/photo-1662141978148-2eeb2afb3837?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=772&amp;q=80" alt=""  /></p>
+  <img loading="lazy" data-action="zoom" src="https://images.unsplash.com/photo-1662141978148-2eeb2afb3837?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=772&amp;q=80" alt=""  /></p>
 <p>internal image:</p>
 <p></p>
 <h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode</h2>
