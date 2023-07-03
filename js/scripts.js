@@ -64,14 +64,14 @@ if (menuTrigger !== null) {
 }
 
 // 自动隐藏菜单栏
-const f = document.querySelector(".header"),
-  t = window.scrollY,
+const ee = document.querySelector(".header"),
+  tt = window.scrollY,
   a = 200,
   n = 100;
 let o = 0,
-  r = t;
+  r = tt;
 window.addEventListener("scroll", () => {
-  const t = window.scrollY;
-  t > r && t > a ? f.classList.add("hidden") : t < r && (o += r - t, o > n && (f.classList.remove("hidden"), o =
-    0)), r = t
+  const tt = window.scrollY;
+  tt > r && tt > a ? ee.classList.add("hidden") : tt < r && (o += r - tt, o > n && (ee.classList.remove("hidden"), o =
+    0)), r = tt
 })
