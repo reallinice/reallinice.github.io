@@ -64,7 +64,7 @@ if (menuTrigger !== null) {
 }
 
 // 自动隐藏菜单栏
-const e = document.querySelector(".header"),
+const f = document.querySelector(".header"),
   t = window.scrollY,
   a = 200,
   n = 100;
@@ -72,6 +72,6 @@ let o = 0,
   r = t;
 window.addEventListener("scroll", () => {
   const t = window.scrollY;
-  t > r && t > a ? e.classList.add("hidden") : t < r && (o += r - t, o > n && (e.classList.remove("hidden"), o =
+  t > r && t > a ? f.classList.add("hidden") : t < r && (o += r - t, o > n && (f.classList.remove("hidden"), o =
     0)), r = t
 })
