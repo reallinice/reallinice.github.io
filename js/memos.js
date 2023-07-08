@@ -39,7 +39,7 @@ var load =
   '<div class="bb-load"><button class="load-btn button-load">加载中……</button></div>'
 if (bbDom) {
   getFirstList() //首次加载数据
-  meNums() //加载总数
+  // meNums() //加载总数
   var btn = document.querySelector("button.button-load")
   btn.addEventListener("click", function () {
     btn.textContent = "加载中……"
@@ -100,19 +100,19 @@ function getNextList() {
     })
 }
 
-//加载总 Memos 数
-function meNums() {
-  var bbLoad = document.querySelector(".bb-load")
-  var bbUrl = memos + "api/memo/stats?creatorId=" + bbMemo.creatorId
-  fetch(bbUrl)
-    .then((res) => res.json())
-    .then((resdata) => {
-      if (resdata.data) {
-        var allnums = " ( 目前共唠叨了 " + resdata.data.length + " 条 )"
-        bbLoad.insertAdjacentHTML("afterend", allnums)
-      }
-    })
-}
+// //加载总 Memos 数
+// function meNums() {
+//   var bbLoad = document.querySelector(".bb-load")
+//   var bbUrl = memos + "api/memo/stats?creatorId=" + bbMemo.creatorId
+//   fetch(bbUrl)
+//     .then((res) => res.json())
+//     .then((resdata) => {
+//       if (resdata.data) {
+//         var allnums = " ( 目前共唠叨了 " + resdata.data.length + " 条 )"
+//         bbLoad.insertAdjacentHTML("afterend", allnums)
+//       }
+//     })
+// }
 
 // 插入 html
 function updateHTMl(data) {
