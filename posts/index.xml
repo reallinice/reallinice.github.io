@@ -4,10 +4,6 @@
     <title>Posts on Reallinice</title>
     <link>https://www.lixiangqian.com/posts/</link>
     <description>Recent content in Posts on Reallinice</description>
-    <image>
-      <url>https://www.lixiangqian.com/logo.svg</url>
-      <link>https://www.lixiangqian.com/logo.svg</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.lixiangqian.com/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
