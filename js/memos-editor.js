@@ -519,7 +519,7 @@ function getEditIcon() {
           <div class="datacont">${bbContREG}</div>
           <div class="memos_diaoyong_top">
           <span class="memos_diaoyong_from">
-            @ <a href="/memos">koobai</a>
+            @ <a href="/memos">reallinice</a>
           </span>
           <span class="memos_diaoyong_time">${moment(
             data[i].createdTs * 1000
