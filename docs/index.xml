@@ -1415,7 +1415,7 @@ assets:
       <guid>https://www.lixiangqian.com/docs/rich-content/</guid>
       <description>A brief description of Hugo Shortcodes</description>
       <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
-<hr>
+<h2 id="heading"></h2>
 <h2 id="image">Image</h2>
 <p>third party image:</p>
 <p>
