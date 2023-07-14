@@ -1,6 +1,5 @@
 var memosDom = document.querySelector(memosData.dom)
-var editIcon =
-  "<div class='load-memos-editor post-description'>Why do we remember bеautiful lies? We end up rеgretting them most of our lives.</div>"
+var editIcon = "<div class='load-memos-editor post-description'>展信舒颜</div>"
 var memosEditorCont = `
 <div class="memos-editor animate__animated animate__fadeIn d-none col-12">
   <div class="memos-editor-body mb-3 p-3">
