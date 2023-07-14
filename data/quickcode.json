@@ -50,7 +50,7 @@
       "color": "#fb7299",
       "title": "Bilibili",
       "tag-soon": "",
-      "tag-update": "",
+      "tag-update": "new",
       "description": "播放来自 Bilibili 的视频~",
       "markdown": "{{< bilibili BVXXXXXXXX >}}"
     },
