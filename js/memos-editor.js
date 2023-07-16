@@ -5,7 +5,7 @@ var memosEditorCont = `
   <div class="memos-editor-body mb-3 p-3">
     <div class="memos-editor-inner animate__animated animate__fadeIn">
       <div class="memos-editor-content">
-        <textarea class="memos-editor-inputer text-sm" rows="1" placeholder="唠叨点什么..."></textarea>
+        <textarea id="editor" class="memos-editor-inputer text-sm" rows="1" placeholder="唠叨点什么..."></textarea>
       </div>
       <div class="memos-editor-tools pt-3">
         <div class="d-flex">
