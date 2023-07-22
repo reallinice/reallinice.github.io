@@ -1,0 +1,52 @@
+{
+  "good": [
+    {
+      "image": "https://img.koobai.com/app/chatgptios.webp",
+      "title": "ChatGPT",
+      "info": "官方客户端，方便订阅 Plus 会员。历史记录同步 PC 端，整体体验不错。",
+      "ios": "iOS",
+      "free": "免费",
+      "link": "https://apps.apple.com/us/app/chatgpt/id6448311069"
+    },
+    {
+      "image": "https://img.koobai.com/app/vscode.webp",
+      "title": "Visual Studio Code",
+      "info": "代码编辑软件，只能说牛逼，再也不用切来切去了，只恨相见太晚。",
+      "macos": "macOS",
+      "free": "免费",
+      "link": "https://code.visualstudio.com/"
+    },
+    {
+      "image": "https://img.koobai.com/app/keka.webp",
+      "title": "Keka",
+      "info": "压缩软件，跟MacZip一样，试用它主要是觉得这图标还蛮有意思的。",
+      "macos": "macOS",
+      "free": "免费",
+      "link": "https://www.keka.io/en/"
+    },
+    {
+      "image": "https://img.koobai.com/app/appcleaner.webp",
+      "title": "AppCleaner",
+      "info": "卸载app工具，使用了多年，能把软件相关文件都能查找出来，比直接删除干净很多。免费开源。",
+      "macos": "macOS",
+      "opensource": "开源",
+      "link": "https://freemacsoft.net/appcleaner/"
+    },
+    {
+      "image": "https://img.koobai.com/app/appcleaner.webp",
+      "title": "Github",
+      "info": "GitHub是一个基于web的版本控制和协作平台，允许开发人员托管、审查和管理他们的代码。",
+      "macos": "macOS",
+      "opensource": "开源",
+      "link": "https://desktop.github.com/"
+    },
+    {
+      "image": "https://www.lixiangqian.com/img/app/figma.webp",
+      "title": "Figma",
+      "info": "提供实时协作、原型设计、版本控制等功能的实时协作工具，适用于UI/UX设计师和团队。",
+      "macos": "macOS",
+      "free": "免费",
+      "link": "https://telegram.org/"
+    }
+  ]
+}
