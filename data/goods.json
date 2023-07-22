@@ -1,25 +1,25 @@
 {
-    "good": [
-        {
-            "image": "https://images.wananaiko.com/2023/05/M2J3ZE.png",
-            "title": "MacBook Pro 14",
-            "jiage": "Apple",
-            "link": "https://www.apple.com/macbook-pro-14-and-16/",
-            "note": "搭载了M1芯片，提供强大的处理能力和出色的能效比,无缝的性能表现，能够更加高效地进行开发工作。"
-        },
-        {
-            "image": "https://images.wananaiko.com/2023/06/magic_keyboard_2.png",
-            "title": "Magic Keyboard",
-            "jiage": "Apple",
-            "link": "https://www.apple.com/shop/product/MK2A3LL/A/magic-keyboard-us-english/",
-            "note": "Magic Keyboard作为一款无线键盘，具备舒适的打字体验、背光功能和便捷的无线连接。"
-        },
-        {
-            "image": "https://images.wananaiko.com/2023/05/uovOcT.png",
-            "title": "MacBook Studio",
-            "jiage": "Apple",
-            "link": "https://www.apple.com/mac-studio/",
-            "note": "紧凑形态融入了惊人的性能和广泛的连接功能，更像一个高效和优雅兼得的工作室。"
-        }
-    ]
+  "good": [
+    {
+      "image": "https://www/lixiangqian.com/img/goods/mbp.png",
+      "title": "MacBook Pro 14",
+      "jiage": "Apple",
+      "link": "https://www.apple.com/macbook-pro-14-and-16/",
+      "note": "搭载了M1芯片，提供强大的处理能力和出色的能效比,无缝的性能表现，能够更加高效地进行开发工作。"
+    },
+    {
+      "image": "https://www/lixiangqian.com/img/goods/magic_keyboard.png",
+      "title": "Magic Keyboard",
+      "jiage": "Apple",
+      "link": "https://www.apple.com/shop/product/MK2A3LL/A/magic-keyboard-us-english/",
+      "note": "Magic Keyboard作为一款无线键盘，具备舒适的打字体验、背光功能和便捷的无线连接。"
+    },
+    {
+      "image": "https://www/lixiangqian.com/img/goods/mac_studio.png",
+      "title": "MacBook Studio",
+      "jiage": "Apple",
+      "link": "https://www.apple.com/mac-studio/",
+      "note": "紧凑形态融入了惊人的性能和广泛的连接功能，更像一个高效和优雅兼得的工作室。"
+    }
+  ]
 }
