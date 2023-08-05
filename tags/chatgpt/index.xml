@@ -194,14 +194,21 @@
 </span></span><span class="line"><span class="cl">EXIT<span class="p">;</span>
 </span></span></code></pre></div><p>解释：</p>
 <ul>
-<li><code>mysql -u root -p</code>：使用 root 用户登录到</li>
-</ul>
-<p>MySQL 数据库。</p>
-<ul>
-<li><code>CREATE DATABASE</code>：创建数据库。</li>
-<li><code>CREATE USER</code>：创建用户并设置密码。</li>
-<li><code>GRANT ALL PRIVILEGES</code>：授予用户对数据库的所有权限。</li>
-<li><code>FLUSH PRIVILEGES</code>：刷新权限以使更改生效。</li>
+<li>
+<p><code>mysql -u root -p</code>：使用 root 用户登录到 MySQL 数据库。</p>
+</li>
+<li>
+<p><code>CREATE DATABASE</code>：创建数据库。</p>
+</li>
+<li>
+<p><code>CREATE USER</code>：创建用户并设置密码。</p>
+</li>
+<li>
+<p><code>GRANT ALL PRIVILEGES</code>：授予用户对数据库的所有权限。</p>
+</li>
+<li>
+<p><code>FLUSH PRIVILEGES</code>：刷新权限以使更改生效。</p>
+</li>
 </ul>
 <h2 id="步骤-6部署-web-应用程序">步骤 6：部署 Web 应用程序</h2>
 <h3 id="传输文件">传输文件</h3>
