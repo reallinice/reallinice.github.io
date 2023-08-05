@@ -17,12 +17,12 @@
       "link": "https://code.visualstudio.com/"
     },
     {
-      "image": "https://www.lixiangqian.com/img/app/figma.png",
+      "image": "https://www.lixiangqian.com/img/app/figma.webp",
       "title": "Figma",
       "info": "提供实时协作、原型设计、版本控制等功能的实时协作工具，适用于UI/UX设计师和团队。",
       "macos": "macOS",
       "free": "免费",
-      "link": "https://telegram.org/"
+      "link": "https://www.figma.com/"
     }
   ]
 }
