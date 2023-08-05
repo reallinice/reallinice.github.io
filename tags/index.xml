@@ -9,7 +9,37 @@
       <link>https://www.lixiangqian.com/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Apr 2022 23:37:00 +0800</lastBuildDate><atom:link href="https://www.lixiangqian.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Aug 2023 07:01:00 +0800</lastBuildDate><atom:link href="https://www.lixiangqian.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chatGPT</title>
+      <link>https://www.lixiangqian.com/tags/chatgpt/</link>
+      <pubDate>Sat, 05 Aug 2023 07:01:00 +0800</pubDate>
+      
+      <guid>https://www.lixiangqian.com/tags/chatgpt/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>claude</title>
+      <link>https://www.lixiangqian.com/tags/claude/</link>
+      <pubDate>Sat, 05 Aug 2023 07:01:00 +0800</pubDate>
+      
+      <guid>https://www.lixiangqian.com/tags/claude/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Guide</title>
+      <link>https://www.lixiangqian.com/tags/guide/</link>
+      <pubDate>Sat, 05 Aug 2023 07:01:00 +0800</pubDate>
+      
+      <guid>https://www.lixiangqian.com/tags/guide/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
     <item>
       <title>example</title>
       <link>https://www.lixiangqian.com/tags/example/</link>
@@ -26,16 +56,6 @@
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.lixiangqian.com/tags/docs/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>guide</title>
-      <link>https://www.lixiangqian.com/tags/guide/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lixiangqian.com/tags/guide/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
