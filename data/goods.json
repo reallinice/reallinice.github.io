@@ -5,7 +5,7 @@
       "title": "MacBook Pro 14",
       "jiage": "Apple",
       "link": "https://www.apple.com/macbook-pro-14-and-16/",
-      "note": "搭载了M1芯片，提供强大的处理能力和出色的能效比,无缝的性能表现，能够更加高效地进行开发工作。"
+      "note": "搭载M1芯片，提供强大的处理能力和出色的能效比,无缝的性能表现，能够更加高效地进行开发工作。"
     },
     {
       "image": "https://www.lixiangqian.com/img/goods/magic_keyboard.png",
@@ -20,6 +20,20 @@
       "jiage": "Apple",
       "link": "https://www.apple.com/mac-studio/",
       "note": "紧凑形态融入了惊人的性能和广泛的连接功能，更像一个高效和优雅兼得的工作室。"
+    },
+    {
+      "image": "https://www.lixiangqian.com/img/goods/airpods.png",
+      "title": "Airpods Pro",
+      "jiage": "Apple",
+      "link": "https://www.apple.com/airpods/",
+      "note": "支持个性化空间音频，小巧方便，续航能力优秀，音质尚可。"
+    },
+    {
+      "image": "https://www.lixiangqian.com/img/goods/fujifilm-x-t3.png",
+      "title": "X-T3",
+      "jiage": "Fujifilm",
+      "link": "https://fujifilm-x.com/global/products/cameras/x-t3/",
+      "note": "17种滤镜，不修图懒人小白业余摄影的优选，出图效果可以参考相册页面。"
     }
   ]
 }
