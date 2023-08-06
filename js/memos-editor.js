@@ -210,7 +210,8 @@ function getEditIcon() {
       window.localStorage && window.localStorage.getItem("memos-response-count")
     if (memosPath && memosOpenId) {
       let randomNum = random(0, memosCount)
-      let randomUrl = memosPath + "/api/memo/all?&limit=1&offset=" + randomNum
+      let randomUrl =
+        memosPath + "/api/v1/memo/all?&limit=1&offset=" + randomNum
       fetch(randomUrl)
         .then((res) => {
           if (res.status == 200) {
@@ -220,7 +221,7 @@ function getEditIcon() {
           }
         })
         .then((resdata) => {
-          updateAvatarUrl(resdata.data)
+          updateAvatarUrl(resdata)
         })
         .catch((err) => {
           cocoMessage.error("网络错误")
@@ -294,7 +295,7 @@ function getEditIcon() {
       window.localStorage && window.localStorage.getItem("memos-access-token")
     let hasContent = memosContent.length !== 0
     if (memosOpenId && hasContent) {
-      let memoUrl = memosPath + "/api/memo?openId=" + memosOpenId
+      let memoUrl = memosPath + "/api/v1/memo?openId=" + memosOpenId
       let memoBody = {
         content: memosContent,
         visibility: memosVisibility,
@@ -334,7 +335,7 @@ function getEditIcon() {
       let response = fetch(tagUrl)
         .then((response) => response.json())
         .then((resdata) => {
-          return resdata.data
+          return resdata
         })
         .then((response) => {
           let taglist = ""
@@ -373,7 +374,7 @@ function getEditIcon() {
             urlRes = e.match(urlReg)[1]
           memosOpenId = apiRes[1]
           memosPath = urlRes
-          memosCount = resdata.data.length
+          memosCount = resdata.length
           window.localStorage &&
             window.localStorage.setItem("memos-access-path", urlRes)
           window.localStorage &&
@@ -406,7 +407,7 @@ function getEditIcon() {
         }
       })
       .then((resdata) => {
-        let d = resdata.data
+        let d = resdata
         e.map((item) => {
           return (item.avatarUrl = d.avatarUrl)
         })
